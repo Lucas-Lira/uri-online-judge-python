@@ -1,1 +1,1 @@
-# Algorithms_solved_in_python_URI_Online_Judge
+# URI Online Judge
